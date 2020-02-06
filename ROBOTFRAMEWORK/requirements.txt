@@ -1,0 +1,6 @@
+authenticator
+robotframework
+robotframework-csvlibrary
+robotframework-selenium2library
+robotframework-excellibrary
+robotframework-httplibrary
